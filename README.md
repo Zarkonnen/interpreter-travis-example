@@ -1,4 +1,4 @@
-interpreter-travis-example
+interpreter-travis-example [![Build Status](https://api.travis-ci.org/Zarkonnen/interpreter-travis-example.png)](http://travis-ci.org/Zarkonnen/interpreter-travis-example)
 ==========================
 
 Example repo for [se-interpreter](https://github.com/Zarkonnen/se-interpreter)/[Travis](https://travis-ci.org/)/[OnDemand](http://saucelabs.com/) continuous integration setup.
