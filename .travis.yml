@@ -6,4 +6,4 @@ script:
 env:
     global:
         - SAUCE_USERNAME=zarkonnen
-        - secure: "DwSFBwqekQX4Pdti73L4BJ/iLN3626xdPk7AlvzB2dDUoa+Zv1FUbUdvuMmM\nDCMBKnhJMPzKv1mdRGdwVC7vXgvR1gCGJJaKYqhPbKYgeBT5mFICCATGJ36G\n76j75A+mtNppGmypEY43dPEdBNkwlvPm1YjAt2vopJbmVd4EPWI="
+        - secure: "VKRGGtM6LvrUnU7vhs86hd9xB8LnX9JJIHpqVKyQPQH8aytPspyru/pIU+y1\n58zDtgDPe17sxpuhf5Cs6+x35FkoqRhYu2dFx3f6gSWt9AVBKbhMTS13ue+/\nrEkKTjIrz0QLvloFFP5IwOdxrp//GJzLrU7R2GR78XwMH8op2iU="
