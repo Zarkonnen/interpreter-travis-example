@@ -2,7 +2,7 @@ language: node_js
 before_script:
     - "npm install -g se-interpreter"
 script:
-    - "se-interpreter my_interpreter_config.json"
+    - "se-interpreter --listener=./utils/sauce_listener.js my_interpreter_config.json"
 env:
     global:
         - SAUCE_USERNAME=zarkonnen
